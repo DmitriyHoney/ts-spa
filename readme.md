@@ -1,3 +1,3 @@
 # SPA on TypeScript
 
-run yarn start
+yarn start
